@@ -39,4 +39,5 @@ client.on('message', async (message) => {
 // Bot شروع کریں
 client.initialize();
 
+
 console.log('Bot چل رہا ہے...');
